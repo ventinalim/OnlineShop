@@ -72,4 +72,5 @@ class SecurityConfig extends WebSecurityConfigurerAdapter {
 //                .authenticated()
         ;
     }
+    /** documentation */
 }

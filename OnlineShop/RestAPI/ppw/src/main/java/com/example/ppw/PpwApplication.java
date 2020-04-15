@@ -33,3 +33,16 @@ public class Percabangan {
         load_table();
     }   
 }
+// penulisan array diman data dalam array di batasi
+package materi_array;
+public class materi_array {
+    public static void main(String[]args){
+        int nilai [] = new int[4];
+        nilai[0]=1;
+        nilai[1]=2;
+        nilai[2]=3;
+        nilai[3]=4;        
+        System.out.println(nilai[2]);
+    }
+/* this comment /* // /** ends here: */
+}
